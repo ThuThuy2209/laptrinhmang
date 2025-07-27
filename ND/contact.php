@@ -17,9 +17,11 @@ if (!isset($_SESSION['user_logged_in'])) {
     <label>Loại phản hồi:</label>
     <select name="category" required>
         <option value="">-- Chọn loại --</option>
-        <option value="Góp ý">Góp ý</option>
-        <option value="Khiếu nại">Khiếu nại</option>
-        <option value="Hỏi đáp">Hỏi đáp</option>
+        <option value="Thái độ phục vụ">Thái độ phục vụ</option>
+        <option value="Đóng gói sản phẩm">Đóng gói sản phẩm</option>
+        <option value="Giao hàng">Giao hàng</option>
+        <option value="Website">Website</option>
+        <option value="Chất lượng sản phẩm">Chất lượng sản phẩm</option>
         <option value="Khác">Khác</option>
     </select>
     <label>Nội dung:</label>
