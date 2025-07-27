@@ -6,8 +6,9 @@ if (!isset($_SESSION['user_logged_in'])) {
 }
 include '../db.php';
 
-$username = $_SESSION['username'];
-$sql = "SELECT * FROM feedback WHERE name='$username' ORDER BY created_at DESC";
+$user_id = $_SESSION['id'];
+
+$sql = "SELECT * FROM feedback WHERE user_id = $user_id ORDER BY created_at DESC";
 $result = $conn->query($sql);
 
 if (!$result) {
@@ -25,6 +26,7 @@ if (!$result) {
 <div class="container">
 <table border="1" cellpadding="5" cellspacing="0" width="100%">
     <tr>
+        <th>ID</th>
         <th>Loại</th>
         <th>Nội dung</th>
         <th>Thời gian gửi</th>
@@ -33,6 +35,7 @@ if (!$result) {
     </tr>
     <?php while($row = $result->fetch_assoc()) { ?>
     <tr>
+        <td><?php echo $row['id']; ?></td>
         <td><?php echo $row['category']; ?></td>
         <td><?php echo $row['message']; ?></td>
         <td><?php echo $row['created_at']; ?></td>
