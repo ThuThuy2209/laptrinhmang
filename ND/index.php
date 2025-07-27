@@ -17,6 +17,7 @@ if (!isset($_SESSION['user_logged_in'])) {
     <p>Chúng tôi luôn sẵn sàng lắng nghe phản hồi từ bạn!</p>
     <a href="contact.php"><button>Gửi phản hồi</button></a>
     <a href="my_feedback.php"><button>Xem phản hồi từ Admin</button></a>
+    <a href="edit.php"><button>Sửa/Xóa phản hồi</button></a>
 </div>
 <footer>&copy; 2025 Nhaflower</footer>
 </body>
