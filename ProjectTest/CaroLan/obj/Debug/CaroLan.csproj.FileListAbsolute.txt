@@ -1,0 +1,11 @@
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.csproj.AssemblyReference.cache
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLAN.Form1.resources
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.Properties.Resources.resources
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.csproj.GenerateResource.cache
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\ProjectTest\CaroLan\bin\Debug\CaroLan.exe.config
+D:\LapTrinhMang\ProjectTest\CaroLan\bin\Debug\CaroLan.exe
+D:\LapTrinhMang\ProjectTest\CaroLan\bin\Debug\CaroLan.pdb
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.exe
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.pdb
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.exe.config

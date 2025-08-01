@@ -1,0 +1,8 @@
+D:\LapTrinhMang\ProjectTest\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\ProjectTest\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\ProjectTest\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.pdb
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.exe.config

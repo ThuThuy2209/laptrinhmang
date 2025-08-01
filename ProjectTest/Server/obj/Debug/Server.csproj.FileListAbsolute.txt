@@ -1,0 +1,8 @@
+D:\LapTrinhMang\ProjectTest\Server\bin\Debug\Server.exe.config
+D:\LapTrinhMang\ProjectTest\Server\bin\Debug\Server.exe
+D:\LapTrinhMang\ProjectTest\Server\bin\Debug\Server.pdb
+D:\LapTrinhMang\ProjectTest\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\LapTrinhMang\ProjectTest\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\ProjectTest\Server\obj\Debug\Server.exe
+D:\LapTrinhMang\ProjectTest\Server\obj\Debug\Server.pdb
+D:\LapTrinhMang\ProjectTest\Server\obj\Debug\Server.exe.config
