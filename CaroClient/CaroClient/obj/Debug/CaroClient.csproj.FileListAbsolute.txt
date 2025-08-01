@@ -1,0 +1,10 @@
+D:\LAPTRINHMANG\CaroClient\CaroClient\bin\Debug\CaroClient.exe.config
+D:\LAPTRINHMANG\CaroClient\CaroClient\bin\Debug\CaroClient.exe
+D:\LAPTRINHMANG\CaroClient\CaroClient\bin\Debug\CaroClient.pdb
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.csproj.AssemblyReference.cache
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.Form1.resources
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.Properties.Resources.resources
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.csproj.GenerateResource.cache
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.csproj.CoreCompileInputs.cache
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.exe
+D:\LAPTRINHMANG\CaroClient\CaroClient\obj\Debug\CaroClient.pdb
