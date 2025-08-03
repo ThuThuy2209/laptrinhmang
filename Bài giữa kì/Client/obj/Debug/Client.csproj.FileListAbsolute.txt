@@ -1,0 +1,22 @@
+D:\LapTrinhMang\ProjectTest\Client\bin\Debug\Client.exe.config
+D:\LapTrinhMang\ProjectTest\Client\bin\Debug\Client.exe
+D:\LapTrinhMang\ProjectTest\Client\bin\Debug\Client.pdb
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.exe
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.pdb
+D:\LapTrinhMang\ProjectTest\Client\obj\Debug\Client.exe.config
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\bin\Debug\Client.exe.config
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\bin\Debug\Client.exe
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\bin\Debug\Client.pdb
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\obj\Debug\Client.exe
+C:\Users\Admin\source\repos\ProjectTest (1)\Client\obj\Debug\Client.pdb
+D:\LAPTRINHMANG\Bài giữa kì\Client\bin\Debug\Client.exe.config
+D:\LAPTRINHMANG\Bài giữa kì\Client\bin\Debug\Client.exe
+D:\LAPTRINHMANG\Bài giữa kì\Client\bin\Debug\Client.pdb
+D:\LAPTRINHMANG\Bài giữa kì\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\LAPTRINHMANG\Bài giữa kì\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\LAPTRINHMANG\Bài giữa kì\Client\obj\Debug\Client.exe
+D:\LAPTRINHMANG\Bài giữa kì\Client\obj\Debug\Client.pdb

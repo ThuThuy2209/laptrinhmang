@@ -1,0 +1,31 @@
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.csproj.AssemblyReference.cache
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLAN.Form1.resources
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.Properties.Resources.resources
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.csproj.GenerateResource.cache
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.csproj.CoreCompileInputs.cache
+D:\LapTrinhMang\ProjectTest\CaroLan\bin\Debug\CaroLan.exe.config
+D:\LapTrinhMang\ProjectTest\CaroLan\bin\Debug\CaroLan.exe
+D:\LapTrinhMang\ProjectTest\CaroLan\bin\Debug\CaroLan.pdb
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.exe
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.pdb
+D:\LapTrinhMang\ProjectTest\CaroLan\obj\Debug\CaroLan.exe.config
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\bin\Debug\CaroLan.exe.config
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\bin\Debug\CaroLan.exe
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\bin\Debug\CaroLan.pdb
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.Form1.resources
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.Properties.Resources.resources
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.exe
+C:\Users\Admin\source\repos\ProjectTest (1)\CaroLan\obj\Debug\CaroLan.pdb
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\bin\Debug\CaroLan.exe.config
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\bin\Debug\CaroLan.exe
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\bin\Debug\CaroLan.pdb
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.csproj.AssemblyReference.cache
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.Form1.resources
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.Properties.Resources.resources
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.csproj.GenerateResource.cache
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.csproj.CoreCompileInputs.cache
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.exe
+D:\LAPTRINHMANG\Bài giữa kì\CaroLan\obj\Debug\CaroLan.pdb
