@@ -13,7 +13,7 @@ namespace Client
         {
             Console.WriteLine("My Client");
             TcpClient client = new TcpClient();
-            client.Connect("127.0.0.1", 5000); // thay "127.0.0.1" bằng IP nội bộ của Server
+            client.Connect("127.0.0.1", 5000); 
 
             NetworkStream stream = client.GetStream();
 
